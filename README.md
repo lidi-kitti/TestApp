@@ -181,11 +181,6 @@ DATABASE_URL=sqlite:///./auth_system.db
 SECRET_KEY=your-secret-key-here
 ```
 
-### Инициализация базы данных
-```bash
-python init_data.py
-```
-
 ### Запуск приложения
 ```bash
 python main.py
